@@ -1,3 +1,10 @@
+#EVENT IMAGE SELECTOR
+
+An Event Image Selector App makes it easy for people to pick and organize pictures for events like weddings, parties, and conferences. The app has a simple design, allowing users to upload images from their phone, computer, or social media accounts. It helps you find the right pictures by letting you sort them based on the type of event, theme, or color.
+
+You can create groups of images, add tags to them, and even work together with others to make sure everyone involved in the event can see and choose the images. The app also lets you save the images in different formats, so they’re ready for printing, digital displays, or sharing online. Plus, it often comes with basic tools to edit the pictures, helping you make them look just right before the event.
+
+
 # Installation Steps:
 
 Note: Make sure to install python on your device through Homebrew (if using Mac)
