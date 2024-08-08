@@ -1,4 +1,4 @@
-#EVENT IMAGE SELECTOR
+# EVENT IMAGE SELECTOR
 
 An Event Image Selector App makes it easy for people to pick and organize pictures for events like weddings, parties, and conferences. The app has a simple design, allowing users to upload images from their phone, computer, or social media accounts. It helps you find the right pictures by letting you sort them based on the type of event, theme, or color.
 
