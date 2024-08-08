@@ -1,1 +1,1 @@
-# MajorProject
+# Event Image Selector
